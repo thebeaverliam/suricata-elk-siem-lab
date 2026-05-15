@@ -239,10 +239,7 @@ Over 6,000 searchable events were indexed during testing.
 ![Eve JSON](screenshots/eve-json-logs.png)
 
 ### Elasticsearch Running
-![Elasticsearch](screenshots/elasticsearch-running.png)
-
-### Elasticsearch Optimized
-![Elasticsearch Optimized](screenshots/elasticsearch-optimized-running.png)
+![Elasticsearch](screenshots/elasticsearch-optimized-running.png)
 
 ### Kibana Running
 ![Kibana Running](screenshots/kibana-running.png)
