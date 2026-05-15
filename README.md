@@ -22,6 +22,7 @@ Logstash
 Elasticsearch
         ↓
 Kibana Visualization & Search
+```
 
 ---
 
