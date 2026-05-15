@@ -10,16 +10,17 @@ The lab simulates attacker behavior using Kali Linux while an Ubuntu-based Suric
 
 ## Architecture
 
+```text
 Kali Linux (Attacker)
-↓
+        ↓
 Ubuntu + Suricata IDS
-↓
+        ↓
 eve.json Logs
-↓
+        ↓
 Logstash
-↓
+        ↓
 Elasticsearch
-↓
+        ↓
 Kibana Visualization & Search
 
 ---
